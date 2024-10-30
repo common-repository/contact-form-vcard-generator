@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Doe;John Doe
+ADR;INTL;PARCEL;WORK:;;Mapusa;Old Goa;Goa;560011;;India;
+ADR;DOM;PARCEL;HOME:;;Goa Street;Panaji;Goa;560011;;India;
+EMAIL;INTERNET:johndoe@gmail.com
+ORG:Information Technology
+TITLE:Developer
+TEL;WORK:9988776655
+TEL;FAX;WORK:01-2222 8888
+TEL;CELL:1234567890
+TEL;HOME:9876543210
+URL;WORK:http://john-doe-it.com
+URL:http://johndoe.com
+END:VCARD
